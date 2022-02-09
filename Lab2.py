@@ -22,6 +22,3 @@ print('hello world. This is my first python string.'.split('.'))
 message = "Tom's ID is 123."
 print(message)
 
-git add--all
-git commit -m"my Lab2.py file"
-git push
